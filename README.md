@@ -1,3 +1,4 @@
-# Game Of Life
+# GAME OF LIFE
 
-Conway's game of life implementation with React (using Vite+TypeScript).
+Conway's game of life ([wikipedia](https://en.wikipedia.org/wiki/Conway's_Game_of_Life))
+implementaion using React + TS.
